@@ -15,7 +15,7 @@ module.exports = {
       },
       animation: {
         "spin-slow": "spin 15s linear infinite",
-        "reverse-spin": "reverse 15s linear infinite",
+        "reverse-spin": "reverse-spin 15s linear infinite",
       },
       keyframes: {
         "reverse-spin": {
